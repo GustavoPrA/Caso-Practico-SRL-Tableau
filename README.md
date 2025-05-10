@@ -2,6 +2,7 @@
 
 En el análisis realizado a la empresa SRL se pueden identificar diversos elementos que impactan de distintas formas a la organización. Este análisis, apoyado en el uso de Tableau, presenta información relacionada con empleados, contrataciones, desempeño, proyectos y rotación de personal.
 
+Link de Tableau Public https://public.tableau.com/app/profile/gustavo.preciado5066/viz/CasoPracticoSRL/Dashboard1#1 
 ## Dashboard 1
 
 Se muestran tres elementos principales:
